@@ -1,12 +1,11 @@
 <h2>Portfólio de Data Science</h2>
 
-<ul>Projetos
+<strong>Projetos :</strong>
 
-    <li>PROJETO 1: Modelo para previsao de consumo de energia para carros eletricos em R (regressao linear)</li>
-    <li>PROJETO 2: Modelo para previsao de extincao de chamas atraves de extintores de incendio em R (regressao logistica)</li>
+    PROJETO 1: Modelo para previsao de consumo de energia para carros eletricos em R (regressao linear)
+    PROJETO 2: Modelo para previsao de extincao de chamas atraves de extintores de incendio em R (regressao logistica)
 
-    </ul>
-Sobre Mim:
+<strong>Sobre Mim:</strong>
 
 Meu nome è carlos santana formado em sistemas de informacao pela universidade metodista,sempre gostei da area de analise de dados (comecei com banco de dados) e migrei para a area de ciencia de dados por ser mais completa e interessante.
 
