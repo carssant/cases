@@ -2,8 +2,8 @@
 
 <strong>Projetos :</strong>
 
-    PROJETO 1: Modelo para previsao de consumo de energia para carros eletricos em R (regressao linear)
-    PROJETO 2: Modelo para previsao de extincao de chamas atraves de extintores de incendio em R (regressao logistica)
+    PROJETO 1: Modelo para previsao de consumo de energia para carros eletricos em R com regressao linear.
+    PROJETO 2: Modelo para previsao de extinção de chamas atraves de extintores de incendio em R com regressao logistica.
 
 <strong>Sobre Mim:</strong>
 
