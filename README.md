@@ -4,6 +4,8 @@
 
     PROJETO 1: Modelo para previsao de consumo de energia para carros eletricos em R com regressao linear.
     PROJETO 2: Modelo para previsao de extinção de chamas atraves de extintores de incendio em R com regressao logistica.
+    PROJETO 3: Modelo para previsao de satisfacao do cliente para o banco santander com python e XGBoost e GridSearch.
+    PROJETO 4: Modelo para previsao de rotatividade do cliente para cliente de telecom com python SVM e GridSearch.
 
 <strong>Sobre Mim:</strong>
 
