@@ -13,7 +13,7 @@
 
 <strong>Sobre Mim:</strong>
 
-Meu nome è carlos santana formado em sistemas de informacao pela universidade metodista,sempre gostei da area de analise de dados (comecei com banco de dados) e migrei para a area de ciencia de dados por ser mais completa e interessante.
+Meu nome è carlos santana formado em sistemas de informacao pela universidade metodista,sempre gostei da area de analise de dados e migrei para a area de dados por ser mais completa e interessante.
 
 <h3>Links</h3 align='center'>
 
