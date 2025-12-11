@@ -8,6 +8,8 @@
     PROJETO 4: Modelo para previsao de rotatividade do cliente para cliente de telecom com python SVM e GridSearch.
     PROJETO 5: Modelo para previsao de custo de publicidade em Spark usando pyspark (regressao linear e random forest).
     PROJETO 6: Modelo para Teste A/B para efetividade de uma campanha (clube de inscrição) de mala direta (python).
+    PROJETO 7: Power Bi de uma empresa ficticia com dax e power query. 
+
 
     
 
