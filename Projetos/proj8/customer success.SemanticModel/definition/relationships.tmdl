@@ -1,0 +1,35 @@
+relationship 63226340-e390-f48d-12f9-5d14a98de762
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: Fpesquisa.CustomerID
+	toColumn: interacoes.CustomerID
+
+relationship 74c2787b-3ed3-4948-9f30-39a33b3dad35
+	joinOnDateBehavior: datePartOnly
+	fromColumn: dCalendario.Data
+	toColumn: LocalDateTable_6fe11618-1b62-4329-b506-c5383d58b46d.Date
+
+relationship 32244b13-135e-bc8b-1863-de5e4e0f742e
+	crossFilteringBehavior: bothDirections
+	fromColumn: interacoes.Data
+	toColumn: dCalendario.Data
+
+relationship dbd8c18b-b432-4495-9b60-ce03edba0fbd
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Fclientes nps'.'Data de Entrada'
+	toColumn: LocalDateTable_5c534e54-e90e-417d-8234-fc6201e37d1b.Date
+
+relationship 51d1daa0-d774-0f92-a8d6-715a57274efc
+	fromColumn: Fpesquisa.CustomerID
+	toColumn: 'Fclientes nps'.CustomerID
+
+relationship 4cacf529-3cd7-4806-8925-91f0cba8ca33
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'pesquisa de nps'.'Data da Pesquisa'
+	toColumn: LocalDateTable_463625a3-2b58-4ab1-87f9-8d449537f3fa.Date
+
+relationship 254d090a-82e5-9c69-4ed5-c329c0376719
+	crossFilteringBehavior: bothDirections
+	fromColumn: 'pesquisa de nps'.'ID Cliente'
+	toColumn: 'Fclientes nps'.CustomerID
+

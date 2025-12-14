@@ -1,0 +1,27 @@
+model Model
+	culture: pt-BR
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: pt-BR
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["interacoes","Fpesquisa","dCalendario","Fclientes nps","pesquisa de nps","Medidas"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table interacoes
+ref table Fpesquisa
+ref table DateTableTemplate_69a71880-2ec4-48a1-8b28-c3b1aa531afb
+ref table dCalendario
+ref table LocalDateTable_6fe11618-1b62-4329-b506-c5383d58b46d
+ref table 'Fclientes nps'
+ref table LocalDateTable_5c534e54-e90e-417d-8234-fc6201e37d1b
+ref table 'pesquisa de nps'
+ref table LocalDateTable_463625a3-2b58-4ab1-87f9-8d449537f3fa
+ref table Medidas
+
+ref cultureInfo pt-BR
+

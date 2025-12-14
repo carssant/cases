@@ -1,0 +1,98 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 554,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 87,
+            "y": 130.6015625
+          },
+          "nodeIndex": "interacoes",
+          "nodeLineageTag": "f66378a7-ea22-4aa1-86e9-70488f44b7aa",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 939,
+            "y": 119.6015625
+          },
+          "nodeIndex": "Fpesquisa",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 85,
+            "y": 619.3515625
+          },
+          "nodeIndex": "dCalendario",
+          "nodeLineageTag": "4fd1cae5-3e7d-4dcb-bf28-ecae532acead",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 3,
+          "expandedHeight": 104
+        },
+        {
+          "location": {
+            "x": 556,
+            "y": 648.16015625
+          },
+          "nodeIndex": "pesquisa de nps",
+          "nodeLineageTag": "3f416ff3-031a-4e27-9ae0-8a9d278d91b4",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1622,
+            "y": 396.66015625
+          },
+          "nodeIndex": "Medidas",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 936,
+            "y": 601.3203125
+          },
+          "nodeIndex": "Fclientes nps",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
