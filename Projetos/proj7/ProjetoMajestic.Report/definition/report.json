@@ -1,0 +1,210 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/3.0.0/schema.json",
+  "themeCollection": {
+    "baseTheme": {
+      "name": "CY21SU07",
+      "reportVersionAtImport": {
+        "visual": "1.8.61",
+        "report": "2.0.61",
+        "page": "1.3.61"
+      },
+      "type": "SharedResources"
+    }
+  },
+  "objects": {
+    "section": [
+      {
+        "properties": {
+          "verticalAlignment": {
+            "expr": {
+              "Literal": {
+                "Value": "'Top'"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "outspacePane": [
+      {
+        "properties": {
+          "expanded": {
+            "expr": {
+              "Literal": {
+                "Value": "true"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "publicCustomVisuals": [
+    "ClusterMap1652434605854",
+    "simpleImageEBC4593F96F1425FB3D84C5BF02B5075"
+  ],
+  "resourcePackages": [
+    {
+      "name": "SharedResources",
+      "type": "SharedResources",
+      "items": [
+        {
+          "name": "CY21SU07",
+          "path": "BaseThemes/CY21SU07.json",
+          "type": "BaseTheme"
+        }
+      ]
+    },
+    {
+      "name": "RegisteredResources",
+      "type": "RegisteredResources",
+      "items": [
+        {
+          "name": "Tooltip4770067958046045.png",
+          "path": "Tooltip4770067958046045.png",
+          "type": "Image"
+        },
+        {
+          "name": "vend_Carmem44350018566734684.png",
+          "path": "vend_Carmem44350018566734684.png",
+          "type": "Image"
+        },
+        {
+          "name": "vend_Joao4932289606256528.png",
+          "path": "vend_Joao4932289606256528.png",
+          "type": "Image"
+        },
+        {
+          "name": "vend_Joana014251974019458435.png",
+          "path": "vend_Joana014251974019458435.png",
+          "type": "Image"
+        },
+        {
+          "name": "01_Analise_Geral5969796070667549.png",
+          "path": "01_Analise_Geral5969796070667549.png",
+          "type": "Image"
+        },
+        {
+          "name": "02_Analise_Continental984356965574015.png",
+          "path": "02_Analise_Continental984356965574015.png",
+          "type": "Image"
+        },
+        {
+          "name": "03_Analise_de_Vendedores6973540369459647.png",
+          "path": "03_Analise_de_Vendedores6973540369459647.png",
+          "type": "Image"
+        },
+        {
+          "name": "04_Analise_Comparativa8427710083822424.png",
+          "path": "04_Analise_Comparativa8427710083822424.png",
+          "type": "Image"
+        },
+        {
+          "name": "05_Analise_Temporal5725954387333376.png",
+          "path": "05_Analise_Temporal5725954387333376.png",
+          "type": "Image"
+        },
+        {
+          "name": "06_Analise_What_If_02.fw47769012179656745.png",
+          "path": "06_Analise_What_If_02.fw47769012179656745.png",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "name": "BrickChart1454871868044",
+      "type": "CustomVisual",
+      "items": [
+        {
+          "name": "BrickChart1454871868044.pbiviz.json",
+          "path": "BrickChart1454871868044.pbiviz.json",
+          "type": "CustomVisualMetadata"
+        }
+      ]
+    },
+    {
+      "name": "PBI_CV_25997FEB_F466_44FA_B562_AC4063283C4C",
+      "type": "CustomVisual",
+      "items": [
+        {
+          "name": "PBI_CV_25997FEB_F466_44FA_B562_AC4063283C4C.pbiviz.json",
+          "path": "PBI_CV_25997FEB_F466_44FA_B562_AC4063283C4C.pbiviz.json",
+          "type": "CustomVisualMetadata"
+        }
+      ]
+    },
+    {
+      "name": "ImageGrid_FC5183B9_926C_45E0_B5F7_0CE9EAF1DA9B",
+      "type": "CustomVisual",
+      "items": [
+        {
+          "name": "ImageGrid_FC5183B9_926C_45E0_B5F7_0CE9EAF1DA9B.pbiviz.json",
+          "path": "ImageGrid_FC5183B9_926C_45E0_B5F7_0CE9EAF1DA9B.pbiviz.json",
+          "type": "CustomVisualMetadata"
+        }
+      ]
+    },
+    {
+      "name": "TextEnhancerByMAQ46ASG0293G65JY43S89DKJ9",
+      "type": "CustomVisual",
+      "items": [
+        {
+          "name": "TextEnhancerByMAQ46ASG0293G65JY43S89DKJ9.pbiviz.json",
+          "path": "TextEnhancerByMAQ46ASG0293G65JY43S89DKJ9.pbiviz.json",
+          "type": "CustomVisualMetadata"
+        }
+      ]
+    },
+    {
+      "name": "simpleImageEBC4593F96F1425FB3D84C5BF02B5075",
+      "type": "CustomVisual",
+      "items": [
+        {
+          "name": "simpleImageEBC4593F96F1425FB3D84C5BF02B5075.pbiviz.json",
+          "path": "simpleImageEBC4593F96F1425FB3D84C5BF02B5075.pbiviz.json",
+          "type": "CustomVisualMetadata"
+        }
+      ]
+    },
+    {
+      "name": "advanceCardE03760C5AB684758B56AA29F9E6C257B",
+      "type": "CustomVisual",
+      "items": [
+        {
+          "name": "advanceCardE03760C5AB684758B56AA29F9E6C257B.pbiviz.json",
+          "path": "advanceCardE03760C5AB684758B56AA29F9E6C257B.pbiviz.json",
+          "type": "CustomVisualMetadata"
+        }
+      ]
+    },
+    {
+      "name": "RadarChart1446119667547",
+      "type": "CustomVisual",
+      "items": [
+        {
+          "name": "RadarChart1446119667547.pbiviz.json",
+          "path": "RadarChart1446119667547.pbiviz.json",
+          "type": "CustomVisualMetadata"
+        }
+      ]
+    },
+    {
+      "name": "ClusterMap1652434605854",
+      "type": "CustomVisual",
+      "items": [
+        {
+          "name": "ClusterMap1652434605854.pbiviz.json",
+          "path": "ClusterMap1652434605854.pbiviz.json",
+          "type": "CustomVisualMetadata"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "useStylableVisualContainerHeader": true,
+    "exportDataMode": "AllowSummarized",
+    "defaultDrillFilterOtherVisuals": true,
+    "allowChangeFilterTypes": true,
+    "useEnhancedTooltips": true
+  }
+}

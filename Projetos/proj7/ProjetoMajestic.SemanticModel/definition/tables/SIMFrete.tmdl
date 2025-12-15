@@ -1,0 +1,26 @@
+table SIMFrete
+	lineageTag: 86b43564-8b1e-4b53-a53e-4b28bd9ab615
+
+	measure 'SIMFrete Valor' = SELECTEDVALUE('SIMFrete'[SIMFrete], 0)
+		formatString: 0%;-0%;0%
+		lineageTag: def974c9-bec4-447b-ac3f-16495cbd7c32
+
+	column SIMFrete
+		formatString: 0%;-0%;0%
+		lineageTag: 846de959-f72a-41d3-bed0-898e0946f1e5
+		summarizeBy: none
+		sourceColumn: [Value]
+
+		extendedProperty ParameterMetadata =
+				{
+				  "version": 0
+				}
+
+		annotation SummarizationSetBy = User
+
+	partition SIMFrete-c6b40408-98f1-4f68-87de-7fbfb7a66a25 = calculated
+		mode: import
+		source = GENERATESERIES(-1, 1, 0.02)
+
+	annotation PBI_Id = 661d8e5415704d318bb9d0ec87e6c302
+

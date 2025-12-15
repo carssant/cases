@@ -1,0 +1,262 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 773,
+        "y": 400
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 461
+          },
+          "nodeIndex": "Medidas",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 399.4,
+            "y": 547
+          },
+          "nodeIndex": "AuxFrete",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1240.1,
+            "y": 71.1
+          },
+          "nodeIndex": "dCalendario",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1923.6,
+            "y": 389.4
+          },
+          "nodeIndex": "dCliente",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1198.2,
+            "y": 481.5
+          },
+          "nodeIndex": "dFilial",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1974.4,
+            "y": 0
+          },
+          "nodeIndex": "dLocal",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1355.1,
+            "y": 849.2
+          },
+          "nodeIndex": "dPagamento",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1664.5,
+            "y": 1013.9
+          },
+          "nodeIndex": "dProduto",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1800.6,
+            "y": 672.5
+          },
+          "nodeIndex": "dVendedor",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 798.8,
+            "y": 453.5
+          },
+          "nodeIndex": "fMetas",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1622.2,
+            "y": 0
+          },
+          "nodeIndex": "fVendas",
+          "size": {
+            "height": 371.5,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2373.8,
+            "y": 511
+          },
+          "nodeIndex": "Quantidade VALUES",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2773.2,
+            "y": 511
+          },
+          "nodeIndex": "Quantidades ALL",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3172.6,
+            "y": 547
+          },
+          "nodeIndex": "TbMedidas",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3578.3,
+            "y": 0
+          },
+          "nodeIndex": "SIMQuantidade",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3984,
+            "y": 0
+          },
+          "nodeIndex": "SIMPreço",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4389.7,
+            "y": 0
+          },
+          "nodeIndex": "SIMFrete",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4795.4,
+            "y": 0
+          },
+          "nodeIndex": "SIMCustos",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5201.1,
+            "y": 0
+          },
+          "nodeIndex": "SIMDesconto",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2257.3,
+            "y": 118
+          },
+          "nodeIndex": "Aux Produto",
+          "size": {
+            "height": 341,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
