@@ -1,4 +1,4 @@
-<h2>Portfólio de Data Science</h2>
+<h2>Portfólio</h2>
 
 <strong>Projetos :</strong>
 
